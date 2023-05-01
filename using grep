@@ -1,0 +1,9 @@
+Using grep in Linux:
+
+grep returns lines that contian a match for an input in certain files that are also inputted by the user.
+For example, " grep hehehe * ", would return all places where the term "hehehe" exists from all of the existing files. 
+In the example command "hehehe" signifies to search for the term "hehehe", and the "*" represents to search through all of the files. 
+
+Another example would be " grep hahaha example.txt ", which would return all the lines where "hahaha" exists in the file example.txt.
+
+The grep command can be useful as an alternative to a "ctrl-f" of sorts, or to find which file contains a specific command.
