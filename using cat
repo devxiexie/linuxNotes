@@ -1,0 +1,18 @@
+cat's main use is to print the content of a file into the output stream.
+For example, if hehe.txt only contained the lines "hehehoho", and the command "cat hehe.txt" was issued, the line "hehehoho" would be returned.
+
+There are also other variations of using the cat command.
+
+One use is "cat file1 file2" would show the contents of both file1 and file2.
+
+Another use is "cat -n file", in which the content with the line number will be shown. 
+So, if one were to enter "cat -n example.txt", then the result would be:
+1)hello!
+2)This is an example!
+3)very nice!
+
+Another useful application of the cat command is "cat > newfile", in which a new file called "newfile" will be created. 
+
+A fun use of the cat command is the tac command, in which the displayed content will be in reversed order.
+
+There are many other uses for the cat command too!
