@@ -1,0 +1,2 @@
+touch FILE creates a file named FILE
+touch -c FILE checks if a file named FILE has been created or not
